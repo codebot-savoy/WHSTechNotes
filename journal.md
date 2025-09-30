@@ -12,3 +12,6 @@ My idea for an AI project is an app that helps students with mental health by ch
 
 # September 22, 2025
 I think working in a virtual store for real money is a good idea for the future of jobs. Claim: It can give people more opportunities to earn money from anywhere in the world. Evidence: For example, IKEA is opening a new store on Roblox where players can stock shelves, serve food, and help customers while getting paid real money. Reasoning: This shows that companies see the value in digital jobs and are willing to invest in them. Another reason this is a good idea is that it helps people who may not be able to work in a traditional store, like those with disabilities or people who live far away from big cities. Virtual jobs can also prepare young people to learn skills like communication, teamwork, and using technology. Overall, I believe that working in a virtual store is a smart and creative way to expand the future of work.
+
+# September 30, 2025
+The phrase “6, 7” can sound mysterious, but students use it casually as a way to keep conversation moving. It might mean “everything’s fine” or “just okay” depending on tone. In the halls, it can be filler talk to avoid silence. People repeat it because it’s short, easy, and playful. It also works like an inside joke. Students like phrases that connect them quickly without much thought.
