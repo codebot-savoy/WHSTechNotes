@@ -15,3 +15,6 @@ I think working in a virtual store for real money is a good idea for the future 
 
 # September 30, 2025
 The phrase “6, 7” can sound mysterious, but students use it casually as a way to keep conversation moving. It might mean “everything’s fine” or “just okay” depending on tone. In the halls, it can be filler talk to avoid silence. People repeat it because it’s short, easy, and playful. It also works like an inside joke. Students like phrases that connect them quickly without much thought.
+
+# October 6, 2025
+If I were in charge of my school, I would allow technology like Chromebooks and AI tools such as ChatGPT, but with some limits. Students could use AI for help with homework or studying, but not for cheating on assignments. Phones would be allowed during lunch or free time, but not in class unless needed for schoolwork. I’d keep entertainment games blocked, but allow learning games that help with math or problem-solving. These rules would help students stay focused while still using technology to learn in smarter ways. Overall, it would make school more modern and balanced.
