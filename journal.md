@@ -28,3 +28,14 @@ Create a colorful interactive slide deck for 5th graders that explains the water
 | Franklin      | Second       | 91A   |
 | Hardeep   | Third        | 61F      |
 | Marla     | First    | 35B      |
+
+# October 27, 2025
+| Name      | Main Dish | Dessert     |
+| :---        |    :----:   |          ---: |
+| Fiona      | Gado Gado       | Creme Brulee   |
+| Tobias   | Shrimp Ceviche	        | French Apple Cake      |
+| Leanne     | 	Beef Wellington    | Raspberry Tiramisu      |
+
+# November 3, 2025
+It’s a big deal if SNAP runs out of funding because many low-income families depend on it to buy food. Without it, a lot of people might go hungry or have to choose cheaper, unhealthy meals. Technology could help by connecting people to local food banks or apps that show where free meal programs are available nearby. One challenge is that not everyone has internet access or a smartphone to use these tools. If I were the designer, I would make an app called FoodConnect that shows nearby food resources and allows people to schedule pickups or deliveries when they can’t travel.
+
