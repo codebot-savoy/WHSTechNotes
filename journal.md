@@ -18,3 +18,13 @@ The phrase “6, 7” can sound mysterious, but students use it casually as a wa
 
 # October 6, 2025
 If I were in charge of my school, I would allow technology like Chromebooks and AI tools such as ChatGPT, but with some limits. Students could use AI for help with homework or studying, but not for cheating on assignments. Phones would be allowed during lunch or free time, but not in class unless needed for schoolwork. I’d keep entertainment games blocked, but allow learning games that help with math or problem-solving. These rules would help students stay focused while still using technology to learn in smarter ways. Overall, it would make school more modern and balanced.
+
+# October 14, 2025
+Create a colorful interactive slide deck for 5th graders that explains the water cycle. Include slides for evaporation, condensation, precipitation, and collection. Use fun images of clouds, rain, and the sun. Add short, easy-to-understand explanations and quiz questions at the end to test what they learned.
+
+# October 20, 2025
+| Name      | Class | Seat     |
+| :---        |    :----:   |          ---: |
+| Franklin      | Second       | 91A   |
+| Hardeep   | Third        | 61F      |
+| Marla     | First    | 35B      |
